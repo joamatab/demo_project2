@@ -6,3 +6,5 @@ root: index
 chapters:
   - file: tutorial
   - file: changelog
+    sections:
+        - file: notebooks/00_geometry.ipynb

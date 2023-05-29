@@ -13,7 +13,7 @@ site:
   # logo:
   projects:
     - slug: myst
-      path: .
+      path: docs
   nav: []
   actions:
     - title: Learn More

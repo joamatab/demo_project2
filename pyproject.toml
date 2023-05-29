@@ -39,9 +39,10 @@ docs = [
     "autodoc_pydantic",
     "matplotlib",
     "jupytext",
-    "jupyter-book==0.14.0",
     "sphinx-autodoc-typehints",
     "sphinx-click",
+    'jupyterlab_myst'
+    'gdsfactory[full]'
     ]
 
 

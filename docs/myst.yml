@@ -1,0 +1,9 @@
+# See docs at: https://myst-tools.org/docs/mystjs/frontmatter
+version: 1
+project:
+  # title:
+  # description:
+  keywords: []
+  authors: []
+  github: https://github.com/joamatab/demo_project2
+  # bibliography: []

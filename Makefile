@@ -49,9 +49,11 @@ jupytext:
 notebooks:
 	jupytext docs/**/*.py --to ipynb
 
-
 docs:
 	myst build --html
+
+start:
+	myst start
 
 .PHONY: drc doc docs
 

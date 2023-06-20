@@ -1,5 +1,5 @@
 
-install: 
+install:
 	pip install -e .[dev]
 	pre-commit install
 
@@ -56,4 +56,3 @@ start:
 	myst start
 
 .PHONY: drc doc docs
-

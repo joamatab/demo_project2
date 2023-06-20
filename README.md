@@ -7,4 +7,3 @@ your package description. What is this package for?
 ## Installation
 
 `make install`
-

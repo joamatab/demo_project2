@@ -41,8 +41,9 @@ docs = [
     "jupytext",
     "sphinx-autodoc-typehints",
     "sphinx-click",
-    'jupyterlab_myst'
-    'gdsfactory[full]'
+    "jupyterlab_myst",
+    "gdsfactory[cad]",
+    "ipykernel",
     ]
 
 

@@ -32,6 +32,3 @@ text2 = c << t
 r = c << r  # Add the rectangle we created
 s = c.to_3d()
 s.show()
-
-
-

@@ -33,7 +33,7 @@ poly1 = c.add_polygon(
 )  # GDS layers are tuples of ints (but if we use only one number it assumes the other number is 0)
 
 # show it in matplotlib and KLayout (you need to have KLayout open and install gdsfactory from the git repo with make install)
-c.plot()
+c.plot_matplotlib()
 
 # %%
 # %%
@@ -83,7 +83,7 @@ poly1 = c.add_polygon(
 )  # GDS layers are tuples of ints (but if we use only one number it assumes the other number is 0)
 
 # show it in matplotlib and KLayout (you need to have KLayout open and install gdsfactory from the git repo with make install)
-c
+c.plot_matplotlib()
 
 # %% [markdown]
 # **Exercise** :
